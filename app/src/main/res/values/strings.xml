@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Book Drive</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Log In</string>
+    <string name="label1">Don\'t wait</string>
+    <string name="label2">Log in or create a new account now</string>
+    <string name="email">Enter Email</string>
+    <string name="password">Enter Password</string>
+</resources>
